@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="todo.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/@heroicons/vue@2.0.18/24/solid/search.js"></script>
+</head>
+<body>
+  <div class="todo-container">
+    <h2>My To-Do List</h2>
+    <div class="filter">
+      <input type="search" placeholder="Search..." 
+       id="search" class="w-full py-2 pl-10 pr-4 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+      />
+    </div>
+    <div class="input-section">
+      <input type="text" id="taskInput" placeholder="Enter a new task...">
+      <button id="addBtn">Add</button>
+    </div>
+    <ul id="taskList">
+       <!-- Tasks will appear here<li>
+  Buy groceries
+  <button class="remove-btn">Remove</button>
+</li>  -->
+    </ul>
+    
+  </div>
+
+  <script src="todo.js"></script>
+</body>
+</html>
+

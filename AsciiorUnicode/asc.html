@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Character Type Detector</title>
+  <link rel="stylesheet" href="asc.css">
+</head>
+<body>
+  <div class="container">
+    <h1>🔍 Character Detector</h1>
+    <p>Type any character below to see whether it's ASCII or Unicode.</p>
+
+    <div class="input-box">
+      <input type="text" id="charInput" maxlength="1" placeholder="Enter a character" />
+      <button id="detectBtn" onclick="detect()">Detect</button>
+    </div>
+
+    <div id="resultBox" class="result-box">Result will appear here</div>
+  </div>
+
+  <script src="asc.js"></script> <!-- Your JS will go here -->
+</body>
+</html>
