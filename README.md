@@ -48,19 +48,18 @@ javascript-mini-projects/
 └─ README.md
 
 📚 Learning Goals
-JavaScript fundamentals (variables, functions, loops, conditionals)
+JavaScript fundamentals (variables, functions, loops, conditionals).
 
-DOM manipulation (creating, updating, and deleting elements dynamically)
+DOM manipulation (creating, updating, and deleting elements dynamically).
 
-Event handling (click events, form submissions, keyboard events)
+Event handling (click events, form submissions, keyboard events).
 
-CSS & styling with JavaScript (adding/removing classes, inline styles)
+CSS & styling with JavaScript (adding/removing classes, inline styles).
 
-Basic problem-solving skills (logic building, handling edge cases)
+Basic problem-solving skills (logic building, handling edge cases).
 
-Project structuring & file organization (HTML, CSS, JS separation)
+Project structuring & file organization (HTML, CSS, JS separation).
 
-Debugging skills (using browser console & developer tools)
-Fetch API usage
+Debugging skills (using browser console & developer tools).
 
-Basic problem-solving skills
+Basic problem-solving skills.
