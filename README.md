@@ -6,15 +6,23 @@ Each project is designed to be simple, interactive, and a great starting point f
 ---
 
 ## 📌 Projects Included
-1. **Counter App** – Increment, decrement, and reset functionality.  
-2. **Digital Clock** – Live clock with real-time updates.  
-3. **Random Color Generator** – Generates random background colors.  
-4. **To-Do List App** – Add, delete, and mark tasks as complete.  
-5. **Calculator** – Basic arithmetic operations.  
-6. **Image Slider** – Simple carousel to switch between images.  
-7. **Weather App (API-based)** – Fetches and displays weather data.  
-8. **Quiz App** – Interactive quiz with multiple-choice questions.  
-9. **Password Generator** – Creates strong random passwords.
+1.Age Calculator – Calculate age from date of birth.
+
+2.Ascii or Unicode Converter – Convert characters to ASCII/Unicode values.
+
+3.Digital Clock – Real-time digital clock display.
+
+4.Expense Tracker – Track daily expenses with add/remove functionality.
+
+5.FD Calculator – Calculate fixed deposit maturity values.
+
+6.Password Generator – Generate strong random passwords.
+
+7.Tip Calculator – Calculate tips based on bill amount & percentage.
+
+8.To-Do List – Add, delete, and mark tasks as completed.
+
+9.Vowel Checker – Check whether a character/string contains vowels.
 
 ---
 
@@ -28,16 +36,16 @@ Each project is designed to be simple, interactive, and a great starting point f
 
 ## 📂 Project Structure
 javascript-mini-projects/
-│── counter-app/
-│── digital-clock/
-│── random-color-generator/
-│── todo-list/
-│── calculator/
-│── image-slider/
-│── weather-app/
-│── quiz-app/
-│── password-generator/
-│── README.md
+├─ Age calculator/
+├─ AsciiorUnicode/
+├─ Digital clock/
+├─ Expense Tracker/
+├─ FDcalculator/
+├─ Passwordgenerator/
+├─ Tip Calcualtor/
+├─ To-Do/
+├─ vowel checker/
+└─ README.md
 
 📚 Learning Goals
 
